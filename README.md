@@ -1,1 +1,1 @@
-# binarysearch
+# Binary Search Practise Solutions
